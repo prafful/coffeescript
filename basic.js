@@ -14,7 +14,7 @@
 
   console.log(doit);
 
-  friends = ["rehman", "ramesh", "manoj"];
+  friends = ["rehman", "ramesh", "manoj"]
 
   console.log(friends);
 
